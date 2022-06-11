@@ -1,4 +1,4 @@
-# diagram-figma-plugin-template
+# CopyWriter Plugin
 
 ## Get Started
 
